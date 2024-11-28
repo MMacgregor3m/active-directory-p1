@@ -1,4 +1,4 @@
-# active-directory-p1
+# active-directory-Brute Force Attack (using a 20 password attack)
 active directory project one (home lab) 
 
 * Vm's used will be Unbuntu server 22.05, WinServer 2023, Win10 Pro, and Kali
