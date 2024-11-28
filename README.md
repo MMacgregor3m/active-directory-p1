@@ -9,5 +9,7 @@ active directory project one (home lab)
 * I had to do a google search in order to work this problem out after a quick 5 mintue search I was able to find and use this To disable cloud-init's network configuration capabilities, write a file
   * /etc/cloud/cloud.cfg.d/99-disable-network-config.cfg with the following:
   * network: {config: disabled}
-* 
+
+* First part of this was helpful in building and setting up an Active Directory
+* Another point of this project to toy around with Red Team by using the Kali VM to set up a brute force attack.
  
